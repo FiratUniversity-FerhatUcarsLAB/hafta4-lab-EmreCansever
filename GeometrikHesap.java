@@ -1,3 +1,11 @@
+/*
+* Ad Soyad: Emre Cansever
+* Ogrenci No: 250541060
+* Tarih: 28.10.2025
+* Aciklama: Geometrik Hesap Aracı
+*/
+
+
 import java.util.Scanner;
 
 public class GeometrikHesap {
